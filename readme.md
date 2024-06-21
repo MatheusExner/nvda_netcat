@@ -25,7 +25,7 @@ Este repositório contém scripts para integrar o NVDA (NonVisual Desktop Access
 ### Importando e Usando o Script NVDA
 
 1. **Baixe o Repositório**:
-   - Clone ou baixe o repositório a partir do [GitHub](https://github.com/MatheusExner/nvda_netcat).
+   - Clone ou baixe o repositório a partir do [GitHub](https://github.com/MatheusExner/nvda_netcat) e substitua os endereços IP conforme seu ambiente.
 
 2. **Instale o Complemento NVDA**:
    - Abra o NVDA e vá para `Ferramentas > Gerenciador de Complementos`.
