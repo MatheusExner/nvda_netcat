@@ -44,7 +44,7 @@ Este repositório contém scripts para integrar o NVDA (NonVisual Desktop Access
    - Baixe e instale o Python a partir do [site oficial](https://www.python.org/).
 
 2. **Configure o Netcat**:
-   - Certifique-se de que o Netcat está instalado e configurado corretamente no seu sistema.
+   - Certifique-se de que o Netcat está instalado e configurado corretamente no seu sistema "atacante".
 
 3. **Execute o Script Python**:
    - Abra o Prompt de Comando ou o PowerShell.
